@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "category": "Electronics",
+      "brand": "Dell",
+      "price": 1200,
+      "description": "High-performance laptop"
+    },
+    {
+      "name": "Phone",
+      "price": "75000",
+      "category": "Electronics",
+      "brand": "Apple",
+      "id": "2"
+    },
+    {
+      "name": "tv",
+      "price": "55000",
+      "category": "Electronics",
+      "brand": "sonic",
+      "id": "c56e"
+    },
+    {
+      "name": "AC",
+      "price": "65000",
+      "category": "Electronics",
+      "brand": "samsung",
+      "id": "1f01"
+    },
+    {
+      "name": "crocs",
+      "price": "3000",
+      "category": "Footwear",
+      "brand": "puma",
+      "id": "a31f"
+    },
+    {
+      "name": "laptop",
+      "price": "35000",
+      "category": "Electronics",
+      "brand": "dell",
+      "id": "95ff"
+    }
+  ]
+}
